@@ -29,7 +29,7 @@ module.exports = {
       name: "nameless",
       library: { type: "var", name: "nameless" },
       remotes: {
-        header: "header-app",
+        header: "header",
       },
       shared: ["react", "react-dom"],
     }),
